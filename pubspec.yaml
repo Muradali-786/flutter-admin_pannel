@@ -39,6 +39,7 @@ dependencies:
 #  google_fonts:
   fl_chart: ^0.66.2
   flutter_svg: ^2.0.10+1
+  firebase_core: ^2.27.0
 
 dev_dependencies:
   flutter_test:
